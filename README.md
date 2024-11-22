@@ -22,9 +22,9 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 ---------------
 ## 💭 Reflection and Self Assessment
-
+In this assignment, I learned how to use Git for version control, including creating new files, making commits, and pushing changes to GitHub. I also understood the difference between local commits and pushing to a remote repository.
 **I learned:** (repeat as needed)
-- .
+- .In this assignment, I learned how to use Git for version control, including creating new files, making commits, and pushing changes to GitHub. I also understood the difference between local commits and pushing to a remote repository.
 
 **I struggled with:** (repeat as needed)
 - .
